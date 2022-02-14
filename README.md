@@ -25,3 +25,5 @@ test
 unauthorized
 
 auth
+
+unauth
